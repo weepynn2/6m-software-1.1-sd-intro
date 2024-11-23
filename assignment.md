@@ -4,22 +4,22 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 
 1. What is the right margin of the first element? 
 ```
-Your answer here
+The right margin for the first element which is header 1 or <h1> with the text 'Developers' Tool' is 0 px.
 ```
 
 2. What is the top padding of the second element?
 ```
-Your answer here
+The top padding of the second element with the text 'To launch developers' tool, right click on the page and choose inspect.' is 0 px.
 ```
 
 3. What is the class name of the third element and the content of the css?
 ```
-Your answer here
+The class name is <div> which defines a division or a section in an HTML document. The content is 'What is the right margin of this element?'
 ```
 
 4. What is the css selector of the fourth element?
 ```
-Your answer here
+The css selector is 'div#idname' which represent div with certain ID. Its ID name is 'elementTwo'.
 ```
 
 5. What is the code you use to keep the blue box within the purple?
